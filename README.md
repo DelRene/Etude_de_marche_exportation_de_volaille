@@ -1,5 +1,5 @@
 # Etude de marché exportation de volaille  
-*Ce projet a été réalisé dans le cadre de ma formation chez OpenClassrooms.*       
+*Création d'un modèle d'apprantissage non supervisé.*       
 
 [=>Rapport d'analyse CANVA<==](https://www.canva.com/design/DAFcU6w_8jM/JoXwDySb3g3DRGteMvjObA/view?utm_content=DAFcU6w_8jM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
